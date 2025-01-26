@@ -21,13 +21,10 @@
 
 <br>
 
-<span align="center">
   
 > [!NOTE]
 >
-> A railway version ready to upload is here: 
-> 
-> [Railway Version](https://github.com/MemoSainz/JavaSpring-CRUD-Railway-apirest)
+> A railway version in my GitHub repositories is ready to upload [here](https://github.com/MemoSainz/JavaSpring-CRUD-Railway-apirest): 
 > 
 
 </span>
