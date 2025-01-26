@@ -21,7 +21,7 @@
 
 <br>
 
-<div>
+<span align="center">
   
 > [!NOTE]
 >
@@ -30,7 +30,7 @@
 > [Railway Version](https://github.com/MemoSainz/JavaSpring-CRUD-Railway-apirest)
 > 
 
-</div>
+</span>
 
 <div align="center"> 
 <a target="_blank" href="https://github.com/MemoSainz/Portfolio">
