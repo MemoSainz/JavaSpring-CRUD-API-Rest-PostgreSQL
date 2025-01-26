@@ -1,6 +1,8 @@
 <div align="center">
 
-# JavaSpring-CRUD-API-Rest-PostgreSQL </div>
+# JavaSpring-CRUD-API-Rest-PostgreSQL 
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png"/>
+</div>
 
 > [!IMPORTANT]
 >
