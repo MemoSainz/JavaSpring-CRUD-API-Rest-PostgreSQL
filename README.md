@@ -8,7 +8,7 @@
 >
 > <h3> Spanish </h3>
 > 
-> Realicé un CRUD en Java, con una API Rest utilizando Spring boot, Hibernate, PostgreSQL, Docker y Maven.
+> Realicé un CRUD en Java, con una API Rest utilizando Spring boot, Hibernate, PostgreSQL, Docker, Maven y Postman.
 >
 <br>
 
@@ -16,7 +16,7 @@
 > 
 > <h3> English </h3>
 > 
-> Made a CRUD in Java, with an API Rest using Spring boot, Hibernate, PostgreSQL, Docker & Maven.
+> Made a CRUD in Java, with an API Rest using Spring boot, Hibernate, PostgreSQL, Docker, Maven & Postman.
 > 
 
 <br>
